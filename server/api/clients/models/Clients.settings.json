@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "clients",
+  "info": {
+    "name": "clients",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "name": {
+      "default": "",
+      "type": "string"
+    },
+    "structure": {
+      "default": "",
+      "type": "json"
+    }
+  }
+}

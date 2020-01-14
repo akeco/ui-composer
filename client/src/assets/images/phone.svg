@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="296px" height="587px" viewBox="0 0 296 587" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="288" height="579" rx="33"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-529.000000, -235.000000)">
+            <g id="Group" transform="translate(533.000000, 239.000000)">
+                <rect id="Rectangle-4" fill="#FFFFFF" x="9" y="524" width="272" height="45"></rect>
+                <circle id="Oval" stroke="#1A7787" stroke-width="2" cx="145.5" cy="546.5" r="16.5"></circle>
+                <g id="Rectangle">
+                    <rect stroke="#1A7787" stroke-width="10" x="5" y="5" width="278" height="569" rx="33"></rect>
+                    <use stroke="#FFFFFF" stroke-width="5" xlink:href="#path-1"></use>
+                    <rect stroke="#1A7787" stroke-width="4" x="-2" y="-2" width="292" height="583" rx="33"></rect>
+                </g>
+                <path d="M67,3 L221,3 L221,3 L221,3 C221,14.045695 212.045695,23 201,23 L86,23 L86,23 C75.5065898,23 67,14.4934102 67,4 L67,3 Z" id="Rectangle-2" fill="#1A7787"></path>
+            </g>
+        </g>
+    </g>
+</svg>
